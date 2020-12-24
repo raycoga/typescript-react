@@ -6,6 +6,6 @@ En este ejemplo podras apreciar;
 -El uso de la propiedad type.
 -El uso de la propiedad de union para declarar un tipo de variable.
 -useRef para referenciar a un input
-
+-Diversas maneras de declarar  variables y funciones
 
 
