@@ -1,4 +1,4 @@
-Este repositorio posee un pequeño codigo de TODO en donde se leen, añade, editan y borran tareas, utilizando TYPESCRIPT... es un pequeño quejemplo que se puede utilizar para guiarse en el futuro cuando sea necesario el uso de typescript.
+Este repositorio posee un pequeño codigo de TODO en donde se leen, añade, editan y borran tareas, utilizando TYPESCRIPT... es un pequeño ejemplo que se puede utilizar para guiarse en el futuro cuando sea necesario el uso de typescript.
 
 En este ejemplo podras apreciar;
 
